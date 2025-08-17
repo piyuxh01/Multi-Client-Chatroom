@@ -21,7 +21,7 @@ A **C++ chatroom** using **socket programming** and **multi-threading**. It supp
 
 ## Screenshot
 
-![Chatroom Screenshot](screenshot.png)  
+![Chatroom Screenshot](multiclientchatroom.png)  
 
 ---
 
